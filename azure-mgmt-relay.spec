@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-relay
 Version  : 0.2.0
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/ce/16/d3ded7c2930b1071c11c5255954ca07699fb0298abab1cf4e08792d30634/azure-mgmt-relay-0.2.0.zip
 Source0  : https://files.pythonhosted.org/packages/ce/16/d3ded7c2930b1071c11c5255954ca07699fb0298abab1cf4e08792d30634/azure-mgmt-relay-0.2.0.zip
 Summary  : Microsoft Azure Relay Client Library for Python
